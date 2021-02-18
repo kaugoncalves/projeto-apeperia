@@ -1,6 +1,6 @@
  <h1 align="center">
 	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
-  Apeperia 
+  Apeperia 🅰
 </h1>
 
 <p align="center">Front-end</p>
