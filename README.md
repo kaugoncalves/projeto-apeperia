@@ -3,10 +3,6 @@
   Apeperia 
 </h1>
 
-<h3 align="center">
-  Title
-</h3>
-
 <p align="center">Front-end</p>
 
 <p align="center">
