@@ -34,7 +34,7 @@
 
 ## 👨🏻‍💻 About the project
 
-- <p style="color: red;">just done front-end, no more features</p>
+- <p style="color: red;">Just front end done, no more features. Fully responsive website</p>
 
 ## 🚀 Technologies
 
