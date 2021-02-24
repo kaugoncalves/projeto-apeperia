@@ -6,23 +6,23 @@
 <p align="center">Front-end</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/kaugoncalves/readme-template">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/kaugoncalves/projeto-apeperia">
 
   <a href="https://www.linkedin.com/in/kauan-gonçalves-3323501b6/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Kauan%20Gonçalves-gree">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/kaugoncalves/readme-template">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/kaugoncalves/projeto-apeperia">
   
   <a href="https://github.com/kaugoncalves/readme-template/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaugoncalves/readme-template">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaugoncalves/projeto-apeperia">
   </a>
   
   <a href="https://github.com/kaugoncalves/readme-template/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/kaugoncalves/readme-template">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/kaugoncalves/projeto-apeperia">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/kaugoncalves/readme-template">
+  <img alt="GitHub" src="https://img.shields.io/github/license/kaugoncalves/projeto-apeperia">
 </p>
 
 <p align="center">
